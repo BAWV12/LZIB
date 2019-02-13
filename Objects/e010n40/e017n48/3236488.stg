@@ -1,10 +1,10 @@
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.20098078 48.17018858 7.2229 316.0 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.20038617 48.16977372 7.1899 316.4 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19978544 48.16935447 7.1760 316.0 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19918053 48.16893633 7.1987 316.0 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19885590 48.16914986 7.1687 316.0 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19945547 48.16956576 7.2008 316.0 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.20004677 48.16998359 7.2007 316.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.20098078 48.17018858 16.2229 316.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.20038617 48.16977372 16.1899 316.4 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19978544 48.16935447 16.1760 316.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19918053 48.16893633 16.1987 316.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19885590 48.16914986 16.1687 316.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.19945547 48.16956576 16.2008 316.0 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue.xml 17.20004677 48.16998359 16.2007 316.0 0.0 -0.0
 OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 17.20018710 48.16916788 98.1027 316.7 0.0 -0.0
 OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 17.19973172 48.16884238 98.0952 316.7 0.0 -0.0
 OBJECT_SHARED Models/Airport/Jetway/jetway-20.xml 17.19951782 48.16880375 130.0505 314.1 0.0 -0.0
@@ -76,4 +76,3 @@ OBJECT_SHARED Models/Airport/apt-light.xml 17.20055521 48.16916736 129.9241 0.0 
 OBJECT_SHARED Models/Airport/apt-light.xml 17.19970859 48.16857487 130.0179 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apt-light.xml 17.19891334 48.16802613 130.1117 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apt-light.xml 17.19811138 48.16796581 130.2096 0.0 0.0 -0.0
-
